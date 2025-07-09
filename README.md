@@ -1,7 +1,5 @@
 # 🛌 Sleep Health and Lifestyle Analysis
 
-> **“Health is the most important 'place' where we truly live.”**
-
 This project explores how different lifestyle and biological factors affect sleep health using a real-world dataset from Kaggle. The goal was to uncover patterns related to stress, physical activity, sleep quality, and sleep disorders using Python-based data analysis and visualization techniques.
 
 ---
