@@ -50,5 +50,5 @@ This project explores how different lifestyle and biological factors affect slee
 # 📬 Contact
 
 📧 ishantkatiyar68@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/ishantkatiyar/
+🔗 LinkedIn: https://shorturl.at/ZiYqG
 
